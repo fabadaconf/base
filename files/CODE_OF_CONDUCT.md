@@ -2,7 +2,7 @@
 
 ## Nuestro compromiso
 
-En el interés de fomentar una comunidad abierta y acogedora, nosotros como contribuyentes y administradores nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
+En el interés de fomentar una comunidad abierta y acogedora, nosotres como organizadores y administradores nos comprometemos a hacer de la participación en nuestra conferencia y nuestra comunidad una experiencia libre de acoso para todes, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
 
 ## Nuestros estándares
 
@@ -24,19 +24,19 @@ Ejemplos de comportamiento inaceptable por participantes:
 
 ## Nuestras responsabilidades
 
-Los administradores del proyecto son responsables de clarificar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas y apropiadas en respuesta a situaciones de conducta inaceptable.
+Les organizadores de la conferencia son responsables de clarificar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas y apropiadas en respuesta a situaciones de conducta inaceptable.
 
-Los administradores del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, *commits*, código, ediciones de documentación, *issues*, y otras contribuciones que no estén alineadas con este Código de Conducta, o de prohibir temporal o permanentemente a cualquier colaborador cuyo comportamiento sea inapropiado, amenazante, ofensivo o perjudicial.
+Les organizadores de la conferencia tienen el derecho y la responsabilidad de evitar cualquier comportamiento inaceptable que no esté alineado con este Código de Conducta, o de prohibir temporal o permanentemente la asistencia a cualquier persona cuyo comportamiento sea inapropiado, amenazante, ofensivo o perjudicial.
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios del proyecto como a espacios públicos donde un individuo esté en representación del proyecto o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por los administradores del proyecto.
+Este código de conducta aplica tanto a espacios de la conferencia como a espacios públicos donde un individuo esté en representación de la conferencia o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por les organizadores de la conferencia.
 
 ## Aplicación
 
-Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo del proyecto en fabadaconf@gmail.com. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo del proyecto está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
+Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo de la conferencia en fabadaconf@gmail.com. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo de la conferencia está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
 
-Administradores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo administrador.
+Organizadores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo organizador.
 
 ## Atribución
 
