@@ -30,11 +30,11 @@ Les organizadores de la conferencia tienen el derecho y la responsabilidad de ev
 
 ## Alcance
 
-Este código de conducta aplica tanto a espacios de la conferencia como a espacios públicos donde un individuo esté en representación de la conferencia o comunidad. Ejemplos de esto incluye el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por les organizadores de la conferencia.
+Este código de conducta aplica tanto a espacios de la conferencia como a espacios públicos donde un individuo esté en representación de la conferencia o comunidad. Ejemplos de esto incluyen: el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos *online* u *offline*. La representación del proyecto puede ser clarificada explicitamente por les organizadores de la conferencia.
 
 ## Aplicación
 
-Ejemplos de abuso, acoso u otro tipo de comportamiento inaceptable puede ser reportado al equipo de la conferencia en fabadaconf@gmail.com. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo de la conferencia está obligado a mantener confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicadas por separado.
+Ejemplos de abuso, acoso, u otro tipo de comportamiento inaceptable pueden ser reportados al equipo de la conferencia en fabadaconf@gmail.com. Todas las quejas serán revisadas e investigadas, generando un resultado apropiado a las circunstancias. El equipo de la conferencia está obligado a mantener la confidencialidad de la persona que reportó el incidente. Detalles específicos acerca de las políticas de aplicación pueden ser publicados por separado.
 
 Organizadores que no sigan o que no hagan cumplir este Código de Conducta pueden ser eliminados de forma temporal o permanente del equipo organizador.
 
