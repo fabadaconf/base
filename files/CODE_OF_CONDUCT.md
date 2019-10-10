@@ -2,7 +2,7 @@
 
 ## Nuestro compromiso
 
-En el interés de fomentar una comunidad abierta y acogedora, nosotres como organizadores y administradores nos comprometemos a hacer de la participación en nuestra conferencia y nuestra comunidad una experiencia libre de acoso para todes, independientemente de la edad, dimensión corporal, discapacidad, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
+En el interés de fomentar una comunidad abierta y acogedora, nosotres como organizadores y administradores nos comprometemos a hacer de la participación en nuestra conferencia y nuestra comunidad una experiencia libre de acoso para todes, independientemente de la edad, dimensión corporal, diversidad funcional, etnia, identidad y expresión de género, nivel de experiencia, nacionalidad, apariencia física, raza, religión, identidad u orientación sexual.
 
 ## Nuestros estándares
 
